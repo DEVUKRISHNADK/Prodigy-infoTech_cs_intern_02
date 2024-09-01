@@ -5,18 +5,6 @@
 
 This project provides a simple yet effective method to encrypt and decrypt images using XOR operations, addition, and pixel shuffling techniques. This method demonstrates basic cryptographic principles applied to image data.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Example](#example)
-- [Functions Overview](#functions-overview)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The script encrypts an image by applying an XOR operation with a key, adding another key, and then shuffling the pixels. The decryption process reverses these steps. This method offers a simple way to obscure images but should not be relied upon for high-security applications.
