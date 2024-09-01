@@ -42,7 +42,7 @@ pip install pillow numpy
 2. Navigate to the project directory:
 
    ```bash
-   cd image-encryption
+   cd Prodigy-infoTech_cs_intern_02
    ```
 
 3. Ensure that your Python environment has the necessary libraries installed.
