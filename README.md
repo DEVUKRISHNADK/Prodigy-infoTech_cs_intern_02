@@ -2,14 +2,14 @@
 
 This repository contains a Python script that performs encryption and decryption of images using a combination of XOR, addition, and pixel shuffling techniques. The script uses the Python Imaging Library (PIL) and NumPy to manipulate image data.
 
-# Features
+## Features
 
 - *Load Image*: Converts an image file into a NumPy array for processing.
 - *Encrypt Image*: Encrypts the image using a combination of XOR operations, pixel value addition, and pixel shuffling.
 - *Decrypt Image*: Decrypts the image by reversing the encryption process.
 - *Save Image*: Converts the processed NumPy array back into an image and saves it to the specified path.
 
-# Installation
+## Installation
 
 To run this script, you need to have Python installed along with the following packages:
 
@@ -22,7 +22,7 @@ bash
 pip install pillow numpy
 
 
-# Usage
+## Usage
 
 1. *Clone the Repository:*
 
@@ -60,7 +60,7 @@ pip install pillow numpy
 
    After running, the encrypted image will be saved as encrypted.png, and the decrypted image will be saved as decrypted.png.
 
-# How It Works
+## How It Works
 
 1. *Encryption:*
    - The image is first XORed with key1.
